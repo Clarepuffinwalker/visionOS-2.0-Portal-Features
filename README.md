@@ -14,4 +14,5 @@ To make the model show normally, you can either:
 1. shrink the model a little bit;
 2. Or Go to [Settings] on your simulator, Tap on [Appearance - Display - Appearance - WindowZoom] and change it to [ExtraLarge], so the model can display successfully. 
 <img width="745" alt="Screenshot 2024-09-11 at 19 14 14" src="https://github.com/user-attachments/assets/63b5e2f1-dc92-461a-83e4-7026cc288199">
+
 Mew~ 
